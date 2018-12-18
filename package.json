@@ -1,0 +1,15 @@
+{
+  "name": "@letra/wx-js-sdk",
+  "version": "1.4.0",
+  "description": "A typescript module for wechat js sdk.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https:github.com/Letra312/wx-js-sdk.git"
+  },
+  "author": "letra",
+  "license": "MIT",
+  "dependencies": {
+    "weixin-js-sdk": "^1.4.0-test"
+  }
+}
