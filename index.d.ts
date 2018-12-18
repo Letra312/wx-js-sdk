@@ -130,8 +130,8 @@ export as namespace wx;
    */
   export function onMenuShareAppMessage(setting: SharedAppMessage): void;
   export function updateAppMessageShareData(setting: SharedAppMessage): void;
+  export function updateTimelineShareData(setting: SharedAppMessage): void;
 
-  
   interface MenuShareQQ extends ShareTimelineConfig {
       /**
        * 分享描述
